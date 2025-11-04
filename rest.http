@@ -1,0 +1,9 @@
+    POST http://localhost:4001/products
+    Content-Type: application/json
+
+    {
+        "name": "iPhone 17 Pro",
+        "description": "Latest Apple flagship with pro model",
+        "price": 1799,
+        "stock": 20
+    }
